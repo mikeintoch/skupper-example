@@ -7,7 +7,6 @@ projects:
   source:
    type: git
    location: https://github.com/mikeintoch/skupper-example.git
-   branch: main
 components:
  -
   type: chePlugin
