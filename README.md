@@ -6,10 +6,15 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 # Deploy it to CodeReady Workspaces
 
-[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-demo-43c4.demo-43c4.example.opentlc.com/f?url=https://github.com/mikeintoch/skupper-example.git)
+[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-demo-43c4.demo-43c4.example.opentlc.com/factory?url=https://github.com/mikeintoch/skupper-example.git)
 
 
 ## Running the application in dev mode
+
+Moving to customer service folder
+```
+cd customer-service
+```
 
 You can run your application in dev mode that enables live coding using:
 ```
