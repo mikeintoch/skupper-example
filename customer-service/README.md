@@ -4,6 +4,11 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+# Deploy it to CodeReady Workspaces
+
+[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-demo-43c4.demo-43c4.example.opentlc.com/f?url=https://github.com/mikeintoch/skupper-example.git)
+
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
