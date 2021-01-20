@@ -6,7 +6,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 # Deploy it to CodeReady Workspaces
 
-[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-demo-43c4.demo-43c4.example.opentlc.com/f?url=https://github.com/mikeintoch/skupper-example/tree/main)
+[![Contribute](factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-monex-a3b6.monex-a3b6.example.opentlc.com//f?url=https://github.com/mikeintoch/skupper-example/tree/main)
 
 
 ## Running the application in dev mode
